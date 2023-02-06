@@ -1,0 +1,6 @@
+The DHT11 is a temperature and humidity sensor commonly used with microcontrollers like the ESP32. 
+This project involves connecting the DHT11 to an ESP32 microcontroller and creating a web server to display the temperature and humidity readings. 
+The ESP32 will collect the readings from the DHT11 sensor and serve them to a web page using its built-in Wi-Fi capabilities. 
+The web page can be accessed through a web browser by entering the IP address of the ESP32. 
+The user will be able to see the current temperature and humidity readings updated in real-time.
+This project is ideal for creating a simple and low-cost monitoring solution for temperature and humidity, for example, in a greenhouse or other environment where it's important to keep track of these parameters.
